@@ -1,3 +1,3 @@
 # EightBallClicker
 
-Eight Ball Clicker is a small game that can be played in a browser. 
+Eight Ball Clicker is a small game that can be played in a browser. It's gameplay loop consists of clicking the Eight Ball, and getting new skins & upgrades from the shop.
