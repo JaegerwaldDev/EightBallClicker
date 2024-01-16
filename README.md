@@ -8,4 +8,4 @@ Your game state is saved locally, so it won't transfer between devices, but you 
 
 ## About
 
-This game was made by Jaegerwald for the members of the "Eight Ball Cult" Discord server. You can still play it, but you'll be missing a bit of context to the skins
+This game was made by Jaegerwald for the members of the "Eight Ball Cult" Discord server. You can still play it, but you'll be missing a bit of context to the skins and theur origins
